@@ -903,3 +903,31 @@
                 font-size: 16px;
                 line-height: 1.5;
               }
+
+  .project6 {
+                background-color: rgb(159, 64, 187 );
+                border-radius: 60px;
+                box-shadow: 0 0 10px rgba(173, 168, 168, 0.2);
+                margin: 20px;
+                padding: 20px;
+                text-align: center;
+                max-width: 300px;
+                width: 100%;
+                transition: all 0.3s ease-in-out;
+              }
+            
+              .project6:hover {
+                transform: translateY(-25px);
+              }
+            
+              .project6 h3 {
+                color: #0c0330;
+                font-size: 24px;
+                margin-bottom: 10px;
+              }
+            
+              .project6 p {
+                color: #0d0d0d;
+                font-size: 16px;
+                line-height: 1.5;
+              }
